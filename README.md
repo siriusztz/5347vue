@@ -1,2 +1,1 @@
-# Wikilatic
-COMP5347
+## 5347 vue part
